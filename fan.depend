@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1655245274 source:c:\users\windows 10\desktop\674 projects\fan\buzzer.c
+	"Main.h"
+	"Port.h"
+	"buzzer.h"
+
+1655204132 c:\users\windows 10\desktop\674 projects\fan\main.h
+	<pic16f877a.h>
+	<stdint.h>
+
+1655279404 c:\users\windows 10\desktop\674 projects\fan\port.h
+
+1655244857 c:\users\windows 10\desktop\674 projects\fan\buzzer.h
+
+1655235767 source:c:\users\windows 10\desktop\674 projects\fan\fan.c
+	"Main.h"
+	"util.h"
+	"buzzer.h"
+	"ssd.h"
+	"slider.h"
+	"push_button.h"
+
+1655185971 c:\users\windows 10\desktop\674 projects\fan\util.h
+	"Main.h"
+
+1655275420 c:\users\windows 10\desktop\674 projects\fan\ssd.h
+
+1655248455 c:\users\windows 10\desktop\674 projects\fan\slider.h
+
+1655235514 c:\users\windows 10\desktop\674 projects\fan\push_button.h
+	"Main.h"
+
+1655235534 source:c:\users\windows 10\desktop\674 projects\fan\push_button.c
+	"push_button.h"
+	"Port.h"
+
+1655253446 source:c:\users\windows 10\desktop\674 projects\fan\fan_controller.c
+	"fan_controller.h"
+	"push_button.h"
+	"speed.h"
+	"buzzer.h"
+	"timer.h"
+
+1655245021 c:\users\windows 10\desktop\674 projects\fan\fan_controller.h
+
+1655199810 c:\users\windows 10\desktop\674 projects\fan\speed.h
+
+1655278472 c:\users\windows 10\desktop\674 projects\fan\timer.h
+	"Main.h"
+
+1655282920 source:c:\users\windows 10\desktop\674 projects\fan\lcd.c
+	"lcd.h"
+	"Port.h"
+	"util.h"
+
+1655282920 c:\users\windows 10\desktop\674 projects\fan\lcd.h
+	"Main.h"
+
+1655271073 source:c:\users\windows 10\desktop\674 projects\fan\lcd_display.c
+	"lcd_display.h"
+
+1655271078 c:\users\windows 10\desktop\674 projects\fan\lcd_display.h
+
+1655249186 source:c:\users\windows 10\desktop\674 projects\fan\slider.c
+	"Main.h"
+	"slider.h"
+
+1655203291 source:c:\users\windows 10\desktop\674 projects\fan\speed.c
+	"speed.h"
+	"Main.h"
+
+1655274627 source:c:\users\windows 10\desktop\674 projects\fan\ssd.c
+	"ssd.h"
+	"Port.h"
+	"Main.h"
+
+1655254000 source:c:\users\windows 10\desktop\674 projects\fan\swing.c
+	"swing.h"
+	"Main.h"
+	"Port.h"
+	"buzzer.h"
+	"slider.h"
+
+1655249172 c:\users\windows 10\desktop\674 projects\fan\swing.h
+
+1655278498 source:c:\users\windows 10\desktop\674 projects\fan\timer.c
+	"timer.h"
+	"push_button.h"
+	"buzzer.h"
+
+1655244415 source:c:\users\windows 10\desktop\674 projects\fan\triac.c
+	"triac.h"
+	"Main.h"
+	"Port.h"
+	"timer.h"
+
+1655235602 c:\users\windows 10\desktop\674 projects\fan\triac.h
+
+1655186049 source:c:\users\windows 10\desktop\674 projects\fan\util.c
+	"util.h"
+
+1655278850 source:c:\users\windows 10\desktop\674 projects\fan\ssd_diplay.c
+	"ssd_display.h"
+	"timer.h"
+	"ssd.h"
+	"Main.h"
+
+1655278730 c:\users\windows 10\desktop\674 projects\fan\ssd_display.h
+
