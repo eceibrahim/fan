@@ -16,7 +16,7 @@ uint16_t __at(0x2007) CONFIG = _HS_OSC & _WDT_OFF & _PWRTE_ON & _BODEN_OFF & _LV
 
 int main(void)
 {
-    #if 0
+
     OS_Init() ;
     PB_Init(PB_PLUS , PB_RELEASED);
     PB_Init(PB_MINUS , PB_RELEASED);
@@ -51,7 +51,7 @@ int main(void)
         LCD_Update();
         BUZZER_Update();
     }
-    #endif
+  
 
 
 
