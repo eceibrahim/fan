@@ -14,8 +14,7 @@ void OS_Init(void)
     TMR_SET_PRESCALER_2;
     TMR_DISABLE_CLOCK;
 
-    GPIO_InitPortPin(GPIOC_CMD ,GPIO_PIN_5 , GPIO_Output);
-    GPIO_SetPortPinState(GPIOC_DATA , GPIO_PIN_5 , 0);
+  
 }
 
 void OS_Start(void)
